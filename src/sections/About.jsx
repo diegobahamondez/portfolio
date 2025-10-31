@@ -31,10 +31,11 @@ export default function About() {
             development in Chile. I recently learned ReactJS and now I&rsquo;m working
             as a freelance developer in Berlin, while learning the german
             language. I&rsquo;m also developing a { }
-            <a href="https://gptandem-4e1b1.web.app/" className="extlink">
+            <a href="https://chad-monorepo.pages.dev" className="extlink">
               web app<FaExternalLinkAlt className="inline-block ml-1"  size={12}/>
             </a>
-            {} for language learning, would love if you give it a try!
+            {} for language learning, would love if you give it a try! just send me an
+            email and I will create a user for you :)
           </p>
           <p className="mb-2">
             I really like the entrepreneur mentality and startup vibes: build
